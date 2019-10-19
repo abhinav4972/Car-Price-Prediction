@@ -1,0 +1,2 @@
+# Car-Price-Prediction
+A Chinese automobile company enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts. They have contracted an automobile consulting company to understand the factors affecting the pricing of cars in the American market, The Company wants to know: Which variables are significant in predicting the price of a car and how well those variables describe the price of a car.
